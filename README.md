@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 1 problems · 0 labs · 5 math
+**14** solved · 8 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,7 +12,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-11-22 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-22 | [solution](problems/0042-implement-relu-activation-function) |
+| [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-22 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-11-17 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
+| [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-22 | [solution](problems/0003-reshape-matrix) |
+| [Run the Digit Network Forward](https://www.deep-ml.com/problems/1994) | easy | 2026-11-22 | [solution](problems/1994-run-the-digit-network-forward) |
+| [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-11-22 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-11-22 | [solution](problems/0024-single-neuron) |
 
 ## Math
 
@@ -23,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-11-16 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-11-16 | [solution](math/0005-gradient-descent-updates) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-11-16 | [solution](math/0030-ml-workflow-basics) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-11-22 | [solution](math/0010-matrix-multiplication) |
 
 ---
 

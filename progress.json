@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:16:21.104Z",
+  "generated_at": "2026-11-25T18:16:23.917Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -68,6 +68,108 @@
       "last_pushed_at": "2026-11-17T01:06:22.887Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-11-22T03:26:40.503Z",
+      "last_pushed_at": "2026-11-22T03:26:40.503Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-11-22T03:42:55.476Z",
+      "last_pushed_at": "2026-11-22T03:42:55.476Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-11-22T04:04:54.704Z",
+      "last_pushed_at": "2026-11-22T04:04:54.704Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:371": {
+      "kind": "problem",
+      "id": "371",
+      "title": "Calculate Number of Parameters in Neural Network",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/371",
+      "path": "problems/0371-calculate-number-of-parameters-in-neural-network",
+      "first_solved_at": "2026-11-22T04:22:02.312Z",
+      "last_pushed_at": "2026-11-22T04:22:02.312Z",
+      "language": "python",
+      "lines": 34
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-11-22T04:25:09.142Z",
+      "last_pushed_at": "2026-11-22T04:25:09.142Z"
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-11-22T08:08:29.977Z",
+      "last_pushed_at": "2026-11-22T08:08:29.977Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:1994": {
+      "kind": "problem",
+      "id": "1994",
+      "title": "Run the Digit Network Forward",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1994",
+      "path": "problems/1994-run-the-digit-network-forward",
+      "first_solved_at": "2026-11-22T08:43:42.187Z",
+      "last_pushed_at": "2026-11-22T08:43:42.187Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-11-22T08:46:11.493Z",
+      "last_pushed_at": "2026-11-22T08:46:11.493Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
